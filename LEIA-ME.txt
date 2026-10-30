@@ -1,0 +1,9 @@
+COMO VISUALIZAR O PORTFOLIO ANTES DE PUBLICAR
+
+1. Extraia todos os arquivos deste ZIP para uma mesma pasta.
+2. Abra a pasta extraida.
+3. Dê dois cliques em index.html.
+4. O site abrirá no navegador. Os quatro vídeos estão na mesma pasta e podem ser reproduzidos pelos controles da galeria.
+
+IMPORTANTE: nao mova os arquivos MP4 para outra pasta. O index.html precisa ficar junto deles.
+Esta é uma prévia local; ainda não é um endereço público na internet.
